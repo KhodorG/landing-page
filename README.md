@@ -4,7 +4,6 @@
 This is a simple dummy landing page built with HTML, CSS, and JavaScript. It's a basic template that you can customize for different purposes like portfolios or product showcases.
 
 ## Features
-- **Responsive Design:** Looks good on all devices (desktops, tablets, and mobiles).
 - **Modern Layout:** Clean and easy-to-navigate design.
 - **Customizable:** Easily change text, images, and styles.
 - **Basic Animations:** Smooth transitions and effects.
